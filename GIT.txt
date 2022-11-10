@@ -166,7 +166,7 @@ push
  - git push origin master
 전송되지 않을 때 강제 전송
  - git push origin master -f
-
+adsfadsfadsf
 pull
  - 로컬 저장소를 원격 저장소에 맞춰 갱신
  - git pull 
