@@ -116,7 +116,7 @@ git commit -a : add와 commit을 동시에 진행
 git log : history 확인
 
 
-
+Ads
 add 취소
 선택한 파일 : git reset HEAD [파일명]
 전체 파일 : git reset HEAD
